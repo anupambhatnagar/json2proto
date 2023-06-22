@@ -1,3 +1,13 @@
+## Current version
+
+```
+mkdir build && cd build
+cmake ..
+make
+```
+
+## Old version
+
 Generate protobuf
 
 ```
