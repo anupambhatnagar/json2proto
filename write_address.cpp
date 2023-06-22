@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "addressbook.pb.h"
+#include <src/addressbook.pb.h>
 using namespace std;
 
 // This function fills in a Person message based on user input.
