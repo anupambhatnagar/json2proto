@@ -1,0 +1,4 @@
+{"traceEvents":[
+{"name": "myFunction", "cat": "foo", "ph": "X", "ts": 123, "dur": 234, "pid": 2343, "tid": 2347,"args": {"first": 1}}
+]}
+

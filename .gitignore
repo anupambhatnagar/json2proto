@@ -2,3 +2,6 @@
 Debug/
 compile_commands.json
 build/
+.cache/
+perfetto_trace.pb.cc
+perfetto_trace.pb.h

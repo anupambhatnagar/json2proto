@@ -1,0 +1,22 @@
+{
+  "addresses": [
+    {
+      "name": "anupam",
+      "id": 5,
+      "email": "sdfad@dfd.com",
+      "phone_number": {
+        "number": "343-343-3434",
+        "type": 2
+		 }
+		},
+		{
+      "name": "sdf",
+      "id": 2,
+      "email": "sdfds@fjkdf.com",
+      "phone_number": {
+        "number": "123-456-7890",
+        "type": 1
+      }
+		}
+	]
+}
